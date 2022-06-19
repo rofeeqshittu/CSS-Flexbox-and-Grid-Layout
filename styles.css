@@ -1,0 +1,84 @@
+*{
+    padding: 25px;
+}
+
+
+main {
+    width: 70%;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+    /* height: 100vh; */
+}
+
+
+body{
+    background-color: hsl(0, 0%, 95%);
+    font-size: 15px;
+}
+h3 {
+    color: hsl(0, 0%, 95%);
+}
+p {
+    color: hsla(0, 0%, 100%, 0.75);
+}
+
+button {
+    background-color: hsl(0, 0%, 95%) ;
+}
+
+/* SEDANS */
+.sedans {
+    color: white;
+    background-color: hsl(31, 77%, 52%);
+}
+
+.sedans button {
+    color: hsl(31, 77%, 52%);
+    padding: 10px 30px;
+    border-radius: 50px;
+    border: none;
+}
+.sedans button:hover {
+    color: white;
+    background-color: transparent;
+    border: 2px solid white;
+}
+
+
+/* SUVS */
+.suvs {
+    color: white;
+    background-color: hsl(184, 100%, 22%);
+}
+
+.suvs button {
+    color: hsl(184, 100%, 22%);
+    padding: 10px 30px;
+    border-radius: 50px;
+    border: none;
+}
+.suvs button:hover {
+    color: white;
+    background-color: transparent;
+    border: 2px solid white;
+}
+
+/* LUXURY */
+.luxury {
+    color: white;
+    background-color: hsl(179, 100%, 13%);
+}
+
+.luxury button {
+    color: hsl(179, 100%, 13%);
+    padding: 10px 30px;
+    border-radius: 50px;
+    border: none;
+}
+.luxury button:hover {
+    color: white;
+    background-color: transparent;
+    border: 2px solid white;
+}
