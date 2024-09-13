@@ -1,6 +1,6 @@
 # CSS-Flexbox-and-Grid-Layout
 
-### the result
+### the result:
 ![Result/output of the code](img/result.png)
 
 A task on Flexbox and Grid Layout, from Zuri training.
